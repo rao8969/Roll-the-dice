@@ -1,0 +1,34 @@
+#winner{
+         text-align: center;
+         height: 15px;
+         width: 20%;
+         color: white;
+         padding: 20px;
+         margin: auto;
+         
+         
+
+}
+#member-1,#member-2,#member-3{
+            text-align: center;
+            height: 45px;
+            width: 10%;
+            background-color:teal;
+            padding: 30px;
+            margin: 20px;
+            margin: auto;
+            margin-top: 50px;
+            border-radius: 5%;
+}
+#roll{
+            text-align: center;
+            height: 35px;
+            width: 17%;
+            background-color:black;
+            color: white;
+            border: none;
+            margin-left: 42%;
+            margin-top: 30px;
+            border-radius: 10px;
+            
+}
